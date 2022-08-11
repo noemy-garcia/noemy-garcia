@@ -50,16 +50,17 @@ Son todos los que están pero están todos los que son 😬
 
 | **Categoría** | **Tecnología** |
 | - | - |
-**Frontend** | ![Frontend](https://skillicons.dev/icons?i=css,html,js,materialui,pug,react,sass)
-**Backend** | ![Backend](https://skillicons.dev/icons?i=js,ts,nodejs,express)
+**Core** | ![Core](https://skillicons.dev/icons?i=js,ts)
+**Frontend** | ![Frontend](https://skillicons.dev/icons?i=css,html,materialui,pug,react,sass) <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
+**Backend** | ![Backend](https://skillicons.dev/icons?i=nodejs,express)
 **BBDD** | ![DDBB](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
 **Cloud** | ![Cloud](https://skillicons.dev/icons?i=firebase,gcp,git,github)
-**DevOps** | ![DevOps](https://skillicons.dev/icons?i=docker,heroku,netlify)
+**DevOps** | ![DevOps](https://skillicons.dev/icons?i=docker,heroku,netlify) <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
 **Test** | ![Testing](https://skillicons.dev/icons?i=jest)
 **Editor** | ![Editor](https://skillicons.dev/icons?i=vscode)
 **Diseño** | ![Diseño](https://skillicons.dev/icons?i=ps,ai,figma)
 **Aprendiendo** | ![Aprendiendo](https://skillicons.dev/icons?i=nestjs)
-
+ 
 ----      
 
   </p>
