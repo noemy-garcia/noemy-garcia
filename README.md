@@ -1,10 +1,10 @@
-### Hi! 👋
-
-I'm a jr fullstacker 👩🏻‍💻
-
 ![https://github.com/n0edev](https://raw.githubusercontent.com/n0edev/n0edev/master/banner_github_n0edev.png)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/noemy-garcia"><img src="https://img.shields.io/badge/Noemy-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+</p>
 
+# Conóceme 👇🏼 
 
 <!--
 **n0edev/n0edev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Sobre mí -->  
+<details>
+  <summary><b>👩🏻‍💻 Sobre mí</b></summary>
+    <p>
+    
+🙋🏻‍♀️ ¡Ey! Soy Noe, desarrolladora de todo lo que me proponga o me pidan. 
+
+La primera web que hice fue en el siglo pasado, estaba cargada de GIFs y CSS acababa de nacer. 
+
+👩🏻‍🎓 Autodidacta empedernida. Fullstack web dev con intención de volver a 📲 iOS dev. 
+
+Me apasiona internet en general, las apps, webs y RRSS en particular.
+
+🤯 Mente inquieta y muy creativa. Si no estoy picando código, estaré creando algo tangible con mis manos.
+
+----      
+
+  </p>
+</details>
+
 <!-- Tecnologías -->  
 <details>
   <summary><b>🛠️ Mi stack</b></summary>
     <p>
+    
+Son todos los que están pero están todos los que son 😬
 
 | **Categoría** | **Tecnología** |
 | - | - |
@@ -42,5 +64,24 @@ Here are some ideas to get you started:
 
   </p>
 </details>
+
+
+<!-- Estadísticas -->  
+<details>
+  <summary><b>📊 Estadísticas</b></summary>
+    <p>
+    
+<!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=n0edev&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n0edev)](https://git.io/streak-stats) -->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=n0edev&show_icons=true&theme=radical)
+
+----      
+
+  </p>
+</details>
+
+
 
 
