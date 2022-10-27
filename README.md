@@ -9,7 +9,7 @@
 # Conóceme 👇🏼
 
 <div align="left">
-  <a href="https://app.daily.dev/DailyDevTips">
+  <a href="https://app.daily.dev/n0edev">
   <img src="https://github.com/n0edev/n0edev/blob/main/devcard.svg" width="256" 
   align = "right" alt="n0edev's Dev Card"/>
   </a>
