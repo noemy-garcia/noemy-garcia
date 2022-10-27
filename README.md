@@ -1,10 +1,18 @@
 ![https://github.com/n0edev](https://raw.githubusercontent.com/n0edev/n0edev/master/banner_github_n0edev.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noemy-garcia"><img src="https://img.shields.io/badge/Noemy-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/noemy-garcia">
+    <img src="https://img.shields.io/badge/Noemy-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
 </p>
 
-# Conóceme 👇🏼 
+# Conóceme 👇🏼
+
+<div align="left">
+<a href="https://app.daily.dev/n0edev">
+  <img src="https://api.daily.dev/devcards/c4b882f653b540529c1a34c443a6a65a.png?r=cir" width="256" align="right" alt="n0e dEv's Dev Card"/>
+  </a>
+</div>
 
 <!--
 **n0edev/n0edev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +30,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Sobre mí -->  
+
 <details>
   <summary><b>👩🏻‍💻 Sobre mí</b></summary>
     <p>
@@ -46,7 +55,7 @@ Me apasiona internet en general, las apps, webs y RRSS en particular.
   <summary><b>🛠️ Mi stack</b></summary>
     <p>
     
-Son todos los que están pero están todos los que son 😬
+Son todos los que están pero no están todos los que son 😬
 
 | **Categoría** | **Tecnología** |
 | - | - |
@@ -82,7 +91,3 @@ Son todos los que están pero están todos los que son 😬
 
   </p>
 </details>
-
-
-
-
