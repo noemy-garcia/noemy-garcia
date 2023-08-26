@@ -1,4 +1,4 @@
-![https://github.com/n0edev](https://raw.githubusercontent.com/n0edev/n0edev/master/banner_github_n0edev.png)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noemy-garcia">
