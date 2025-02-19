@@ -85,15 +85,8 @@ Son todos los que están pero no están todos los que son 😬
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n0edev)](https://git.io/streak-stats) -->
  ![github stats](https://github-readme-stats.vercel.app/api?username=noemy-garcia&show_icons=true&theme=radical)
-![github stats](https://github-profile-trophy.vercel.app/?username=noemy-garcia&theme=dracula)
-
-<a href="https://github.com/noemy-garcia">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noemy-garcia" />
-</a>
-<a href="https://github.com/noemy-garcia">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemy-garcia&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noemy-garcia&layout=compact)
+ 
 ----      
 
   </p>
