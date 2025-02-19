@@ -85,7 +85,7 @@ Son todos los que están pero no están todos los que son 😬
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n0edev)](https://git.io/streak-stats) -->
  ![github stats](https://github-readme-stats.vercel.app/api?username=noemy-garcia&show_icons=true&theme=radical)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noemy-garcia&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noemy-garcia&layout=compact&theme=radical)
  
 ----      
 
