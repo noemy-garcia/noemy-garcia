@@ -84,12 +84,14 @@ Son todos los que están pero no están todos los que son 😬
 <!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=n0edev&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n0edev)](https://git.io/streak-stats) -->
+ ![github stats](https://github-readme-stats.vercel.app/api?username=noemy-garcia&show_icons=true&theme=radical)
+![github stats](https://github-profile-trophy.vercel.app/?username=noemy-garcia&theme=dracula)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noemy-garcia&repo=github-readme-stats" />
+<a href="https://github.com/noemy-garcia">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noemy-garcia" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noemy-garcia&repo=convoychat" />
+<a href="https://github.com/noemy-garcia">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemy-garcia&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ----      
