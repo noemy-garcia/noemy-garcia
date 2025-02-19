@@ -69,8 +69,7 @@ Son todos los que están pero no están todos los que son 😬
 **Test** | ![Testing](https://skillicons.dev/icons?i=jest)
 **Editor** | ![Editor](https://skillicons.dev/icons?i=vscode)
 **Diseño** | ![Diseño](https://skillicons.dev/icons?i=ps,ai,figma)
-**Aprendiendo** | ![Aprendiendo](https://skillicons.dev/icons?i=nestjs)
- 
+
 ----      
 
   </p>
@@ -87,6 +86,7 @@ Son todos los que están pero no están todos los que son 😬
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n0edev)](https://git.io/streak-stats) -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=noemy-garcia&show_icons=true&theme=radical)
+https://github-profile-trophy.vercel.app/?username=noemy-garcia&theme=dracula
 
 ----      
 
