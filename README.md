@@ -85,8 +85,12 @@ Son todos los que están pero no están todos los que son 😬
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n0edev)](https://git.io/streak-stats) -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=noemy-garcia&show_icons=true&theme=radical)
-![github stats](https://github-profile-trophy.vercel.app/?username=noemy-garcia&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noemy-garcia&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noemy-garcia&repo=convoychat" />
+</a>
 
 ----      
 
